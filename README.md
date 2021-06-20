@@ -4,7 +4,7 @@ Tentative Configs and changes to add use of SKR2 boards in Voron Documentation.
 20JUN: Added Default configuration, Wiring Diagram PDF, images used in Wiring Diagram.
 
 # SUMMARY OF CHANGES:
-## File: SKR2_Config.cfg
+## File: [SKR2_Config.cfg](https://github.com/Zearkos/Voron2.4_SKR2/blob/main/Voron2_SKR2_Config.cfg)
 Original file was [Voron2_SKR_14_Config.cfg](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/SKR_1.4/Voron2_SKR_14_Config.cfg)
 
 1. Remapped all pins to new naming convention on SKR2 board.
