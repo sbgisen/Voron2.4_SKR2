@@ -13,7 +13,7 @@ Original file was [Voron2_SKR_14_Config.cfg](https://github.com/VoronDesign/Voro
 	- Lines: 95-100
 	> [output_pin motor_power] only allows for one pin to be listed, but both boards must have power applied or UART will fail.  Multi-pin solves issue without over-complicating the fix.
 	
-## File: SKR2 (Rev B) Wiring Diagram.pdf
+## File: [SKR2 (Rev B) Wiring Diagram.pdf](https://github.com/Zearkos/Voron2.4_SKR2/blob/main/SKR2%20(Rev%20B)%20Wiring%20Diagram.pdf)
 Mimic'd file [Voron2_SKR_14_Wiring.pdf](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/SKR_1.4/Voron2_SKR_14_Wiring.pdf)
 1. Generated new diagrams using SKR2 board image.
 2. Added Board Revision check and Addendum A with reference images of MOSFETs.
